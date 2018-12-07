@@ -1,0 +1,123 @@
+/* Character FrameWork */
+
+.img {
+	opacity: 0.1;
+	filter: alpha(opacity=0);
+}
+
+img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
+/* Style top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: black;
+}
+
+/* Style topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+	text-shadow: 3px;
+    padding: 25px 34px;
+    text-decoration: none;
+	border-style: inset;
+	border: 4px solid red;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color: #DC143C;
+    color: white;
+	border-color: black;
+}
+
+
+.center {
+	text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	font-family: courier new;
+	font-size: 18px;
+	color: #DC143C;
+}
+
+.background {
+	background-image: url('https://images8.alphacoders.com/913/thumb-1920-913561.jpg');
+	background-size: 1780px 853px;
+	background-color: black;
+	}
+
+
+/* Info and Names */
+p {
+	font-family: courier new;
+	border-right-style: soild;
+	border: 3px solid #DC143C;
+	background-color: #696969;
+	padding: 5px;
+	color: #DC143C;
+	font-family: courier new;
+	font-size: 26px;
+	float: center;
+	text-align: center;
+}
+
+h1 {
+	font-family: courier new;
+	font-size: 55px;
+	border-right-style: soild;
+	border: 3px solid #DC143C;
+	background-color: #696969;
+	padding: 5px;
+	color: #DC143C;
+	font-family: courier new;
+	float: center;
+	text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+
+/* Sticky Nav
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+*/
