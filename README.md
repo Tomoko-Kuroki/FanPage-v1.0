@@ -8,4 +8,4 @@ or
 
 Most likly be much more in depth than this fan page is
 
-NLT 21 Dec 2018 0952
+NLT 21 Dec 2018 0952PST
