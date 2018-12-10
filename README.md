@@ -9,3 +9,5 @@ or
 Most likly be much more in depth than this fan page is
 
 NLT 21 Dec 2018 0952PST
+
+UPDATE 10 DEC 2018: Gonna have it as Saki Nikaido DEFENTLY Saki
